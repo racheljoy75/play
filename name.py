@@ -1,0 +1,1 @@
+print 'lydia', 'anne'
